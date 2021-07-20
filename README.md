@@ -2,14 +2,14 @@
 
 
 
-#MLFlow - questo mi piace in più con serveml si possonon servire i modelli con FastAPi,
+## MLFlow - questo mi piace in più con serveml si possonon servire i modelli con FastAPi,
 ma non fa ETL solo hyperparameter tuning etc
 
-https://www.youtube.com/watch?v=OWJHHAtnAwY
-https://www.youtube.com/watch?v=M_CTgJcDkwg
-https://pypi.org/project/serveml/
+- https://www.youtube.com/watch?v=OWJHHAtnAwY
+- https://www.youtube.com/watch?v=M_CTgJcDkwg
+- https://pypi.org/project/serveml/
 
-#Airflow fa tutto, in più nella versione 2.0 ha lo swaggerUI di FastAPI integrato
+## Airflow fa tutto, in più nella versione 2.0 ha lo swaggerUI di FastAPI integrato
 
 mkdir airflow2
 cd airflow2
