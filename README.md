@@ -11,15 +11,15 @@ ma non fa ETL solo hyperparameter tuning etc
 
 ## Airflow fa tutto, in più nella versione 2.0 ha lo swaggerUI di FastAPI integrato
 '''
- mkdir airflow2
- cd airflow2
- wget https://github.com/visiont3lab/hello-world/blob/master/airflow2/docker-compose.yaml
- code .
- mkdir ./dags ./logs ./plugins
- echo -e "AIRFLOW_UID=$(id -u)\nAIRFLOW_GID=0" > .env
+ - mkdir airflow2
+ - cd airflow2
+ - wget https://github.com/visiont3lab/hello-world/blob/master/airflow2/docker-compose.yaml
+ - code .
+ - mkdir ./dags ./logs ./plugins
+ - echo -e "AIRFLOW_UID=$(id -u)\nAIRFLOW_GID=0" > .env
 
- docker-compse up
- localhost:8080
- user:airflow
- passw:airflow
+ - docker-compse up
+ - localhost:8080
+ - user:airflow
+ - passw:airflow
 '''
