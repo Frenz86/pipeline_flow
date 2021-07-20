@@ -9,8 +9,12 @@ ma non fa ETL solo hyperparameter tuning etc
 - https://www.youtube.com/watch?v=M_CTgJcDkwg
 - https://pypi.org/project/serveml/
 
-## Airflow fa tutto, in più nella versione 2.0 ha lo swaggerUI di FastAPI integrato
-'''
+## Airflow fa tutto, in più nella versione 2.0 ha lo swaggerUI di FastAPI integrato, ha Celery etc-
+
+- https://www.youtube.com/watch?v=UFsCvWjQT4w
+
+##############################
+### Installation docker
  - mkdir airflow2
  - cd airflow2
  - wget https://github.com/visiont3lab/hello-world/blob/master/airflow2/docker-compose.yaml
@@ -22,4 +26,9 @@ ma non fa ETL solo hyperparameter tuning etc
  - localhost:8080
  - user:airflow
  - passw:airflow
-'''
+
+## MLflow vs Airflow
+
+- https://www.youtube.com/watch?v=NfPf0Y770DA&t=2658s
+
+
